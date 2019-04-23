@@ -1,0 +1,4 @@
+Info (10281): Verilog HDL Declaration information at GY521.v(17): object "GX" differs only in case from object "gx" in the same scope
+Info (10281): Verilog HDL Declaration information at GY521.v(18): object "GY" differs only in case from object "gy" in the same scope
+Info (10281): Verilog HDL Declaration information at GY521.v(19): object "GZ" differs only in case from object "gz" in the same scope
+Warning (10268): Verilog HDL information at mpu6050.v(151): always construct contains both blocking and non-blocking assignments
